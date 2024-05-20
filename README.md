@@ -39,7 +39,7 @@ I was involved in a project where I need to print from Node.JS. This is the reas
 
 ### How to install:
 ```
-npm install @thiagoelg/node-printer
+npm install @sirohiakshay/node-printer
 ```
 
 ### How to use:
@@ -54,6 +54,7 @@ See [examples](https://github.com/thiagoelg/node-printer/tree/main/examples)
 
 * Thiago Lugli, @thiagoelg
 * Eko Eryanto, @ekoeryanto
+* Akshay Sirohi, @sirohiakshay
 
 Feel free to download, test and propose new futures
 
