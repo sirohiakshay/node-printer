@@ -66,6 +66,11 @@
             "MACOSX_DEPLOYMENT_TARGET": "10.7",
           },
         }],
+        ['OS=="win"', {
+          'defines':[
+            "NOMINMAX"
+          ],
+        }],
       ]
     }
   ]

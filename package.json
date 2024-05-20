@@ -1,8 +1,8 @@
 {
-  "name": "@thiagoelg/node-printer",
+  "name": "@sirohiakshay/node-printer",
   "description": "Node.js printer bindings",
-  "version": "0.6.2",
-  "homepage": "https://github.com/thiagoelg/node-printer",
+  "version": "0.6.3",
+  "homepage": "https://github.com/sirohiakshay/node-printer",
   "author": {
     "name": "Ion Lupascu",
     "url": "http://program-support.co.uk/",
@@ -10,7 +10,8 @@
   },
   "contributors": [
     "Thiago Lugli <thiagoelg@gmail.com>",
-    "Eko Eryanto <ekoeryanto@gmail.com>"
+    "Eko Eryanto <ekoeryanto@gmail.com>",
+    "Akshay Sirohi <akshay.sirohi11@gmai.com>"
   ],
   "repository": {
     "type": "git",
@@ -37,7 +38,7 @@
   "binary": {
     "module_name": "node_printer",
     "module_path": "./lib/",
-    "host": "https://github.com/thiagoelg/node-printer/releases/download/",
+    "host": "https://github.com/sirohiakshay/node-printer/releases/download/",
     "remote_path": "v{version}"
   },
   "licenses": [
@@ -47,7 +48,7 @@
   ],
   "main": "./lib/printer",
   "dependencies": {
-    "nan": "^2.15.0",
+    "nan": "^2.19.0",
     "prebuild-install": "^7.0.1"
   },
   "types": "types/index.d.ts"
